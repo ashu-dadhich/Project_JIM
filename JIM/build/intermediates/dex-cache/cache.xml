@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abir\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-5a267b91ff9d2842c8c5732ea1b929cb6a0b8afd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\pre-dexed\debug\classes-01d722309df0927425aa41bc554f28c99206977f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\pre-dexed\debug\classes-6556b2868be1904a3ac56396545929e7dac38cde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\pre-dexed\debug\classes-13da936669da8b9af023bd2e6ad144564f1ec96c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Abir\AndroidStudioProjects\JIM\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-6c6b78c5f4504d736dcc5712b898699f9a2154fc.jar" />
+    </item>
+
+</items>

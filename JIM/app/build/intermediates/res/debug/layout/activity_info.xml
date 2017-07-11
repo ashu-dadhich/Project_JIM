@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/abc"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.abirsoni.jim.Sign" >
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="JUIT Information Manager [JIM]"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFF" />
+
+    <Button
+        android:id="@+id/update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="34dp"
+        android:text="User Requests" />
+
+    <TextView
+        android:id="@+id/extView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/update"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="52dp"
+        android:text="(Assistant Professor,CSE, NIT-Hamirpur)"
+        android:textColor="#FFF" />
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/extView2"
+        android:layout_centerHorizontal="true"
+        android:text="Dr. Pradeep Singh"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFF" />
+
+    <TextView
+        android:id="@+id/TextView04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/TextView03"
+        android:layout_centerHorizontal="true"
+        android:text="Under guidance of"
+        android:textColor="#FFF" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/TextView04"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="38dp"
+        android:text="By Abir Soni"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFF" />
+
+    <TextView
+        android:id="@+id/TextView05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/TextView04"
+        android:layout_below="@+id/TextView01"
+        android:layout_marginTop="40dp"
+        android:text="Ver. 1.0.0"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFF" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Abir/AndroidStudioProjects/JIM/app/src/main/res/layout/activity_info.xml -->
